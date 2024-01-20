@@ -6,5 +6,7 @@ public class HelloWorld {
 
         System.out.println("This is a Hello World Class");
 
+        // This is new line
+
     }
 }
